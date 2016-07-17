@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageNDK</string>
+    <string name="source">原图</string>
+    <string name="from_java">Java</string>
+    <string name="from_java_callback">Java回调</string>
+    <string name="from_ndk">Ndk</string>
+</resources>
